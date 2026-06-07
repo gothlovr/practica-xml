@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <biblioteca>
+<!-- Error: Se corrigio el atributo id sin comillas -->
     <libro id="001">
+    <!--Error:Se corrigio la T en mayuscula,debe de ser minuscula-->
         <titulo>Introduccion a la programacion</titulo>
         <autor>Carlos Mendez</autor>
         <anio>2021</anio>
@@ -9,5 +11,7 @@
         <titulo>Bases de datos</titulo>
         <autor>Laura Perez</autor>
         <anio>2019</anio>
+    <!--Error:Se agrego el cierre faltante a libro-->
     </libro>
+    <!-- Error:Se corrigio la raiz biblioteca ya que le fatlaa el cierre-->
     </biblioteca>
