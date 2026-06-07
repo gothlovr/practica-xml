@@ -3,4 +3,5 @@
     <nombre>Ana</nombre>
     <apellidos>Martinez Rios</apellidos>
     <edad>23</edad>
+    <correo>ana.martinez@universidad.edu</correo>
 </alumno>
