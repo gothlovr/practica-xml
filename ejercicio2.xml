@@ -13,4 +13,10 @@
         <carrera>Licenciatura en Informatica</carrera>
         <promedio>92</promedio>
     </alumno>
+    <!-- Tercer alumno -->
+    <alumno id="003">
+        <nombre>Miguel Torres</nombre>
+        <carrera>Ingenieria en Sistemas</carrera>
+        <promedio>85</promedio>
+    </alumno>
 </grupo>
