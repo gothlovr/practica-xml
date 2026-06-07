@@ -5,4 +5,9 @@
     <edad>23</edad>
     <correo>ana.martinez@universidad.edu</correo>
     <teléfono>444-1234567</teléfono>
+    <direccion>
+        <calle>Av. Juarez 145</calle>
+        <colonia>Centro</colonia>
+        <ciudad>Rioverde</ciudad>
+    </direccion>
 </alumno>
