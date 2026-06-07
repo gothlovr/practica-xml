@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grupo>
+    <!-- Primer alumno -->
+    <alumno id="001">
+        <nombre>Carlos Lopez</nombre>
+        <carrera>Ingenieria en Sistemas</carrera>
+        <promedio>88</promedio>
+    </alumno>
+
+    <!-- Segundo alumno -->
+    <alumno id="002">
+        <nombre>Laura Perez</nombre>
+        <carrera>Licenciatura en Informatica</carrera>
+        <promedio>92</promedio>
+    </alumno>
+</grupo>

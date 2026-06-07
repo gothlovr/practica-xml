@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro id=001>
+        <titulo>Introduccion a la programacion</Titulo>
+        <autor>Carlos Mendez</autor>
+        <anio>2021</anio>
+    </libro>
+    <libro id="002">
+        <titulo>Bases de datos</titulo>
+        <autor>Laura Perez</autor>
+        <anio>2019</anio>
+    </libro>
+    <biblioteca>
