@@ -12,6 +12,11 @@
         <nombre>Laura Perez</nombre>
         <carrera>Licenciatura en Informatica</carrera>
         <promedio>92</promedio>
+        <materias>
+            <materia>Programacion en Ambiente Cliente Servidor</materia>
+            <materia>Redes de Computadoras</materia>
+            <materia>Bases de Datos Avanzadas</materia>
+        </materias>
     </alumno>
     <!-- Tercer alumno -->
     <alumno id="003">
